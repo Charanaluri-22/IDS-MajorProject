@@ -7,5 +7,5 @@ tensorboard-plugin-wit==1.7.0
 tensorflow==2.3.1
 tensorflow-estimator==2.3.0
 scipy==1.5.3
-pickel==1.0
+pickle==1.0
 pandas==1.1.3
